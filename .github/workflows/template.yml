@@ -11,10 +11,9 @@ env:
 
 permissions:
   checks: write
-  actions: read
+  actions: write
   contents: read
   issues: write
-  workflows: write
 
 jobs:
   build:
